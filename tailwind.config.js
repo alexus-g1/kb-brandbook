@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     backgroundImage: {
       'blya' : 'linear-gradient(to-bottom, rgb(236, 72, 153), rgb(239, 68, 68), rgb(234, 179, 8))',
-      'gamno': 'linear-gradient(to bottom, #E52729, #ED6869, #FFF)',
+      'gamno': 'linear-gradient(to bottom, #E52729, #ED6869, #F8F8F8)',
       'mockup' : "url('/img/MockUp.png')",
     },
     container: {
