@@ -37,19 +37,16 @@ module.exports = {
       },
       maxWidth: {
         '623px': '623px',
-
+        '555px': '555px',
+        '688px': '688px',
+        '708px': '708px',
       },
       fontSize: {
         'monserat': ['78px', '112.4%'],
         'xxs' : ['10px','16px'],
       },
       gridTemplateColumns: {
-        // Simple 16 column grid
-        '16': 'repeat(16, minmax(0, 1fr))',
-
         'goals': '500px minmax(0, 1fr) minmax(0, 1fr)',
-        // Complex site-specific column configuration
-        'footer': '200px minmax(900px, 1fr) 100px',
       },
       rotate: {
         '40': '40deg',
@@ -57,7 +54,7 @@ module.exports = {
         '30': '30deg'
       },
       spacing: {
-        'container': '200px',
+        '200px': '200px',
         'goals' : '40px',
         'roadmap': '3000px',
         '75px' : '75px',
@@ -78,6 +75,16 @@ module.exports = {
         '115px': '155px',
         '758px': '758px',
         '1000px': '1000px',
+        '1050px': '1050px',
+        '400px':'400px',
+        '1600px': '1600px',
+        '920px':'920px',
+        '296px': '296px',
+        '900px': '900px',
+        '370px': '370px',
+        '800px': '800px',
+        '980px':'980px',
+        
       },
       container: {
         screens: {
